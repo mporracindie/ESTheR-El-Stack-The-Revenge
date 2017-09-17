@@ -1,0 +1,10 @@
+language: c
+compiler: gcc
+
+before_install: cd parser-tests
+install: make all
+script: make test
+
+notifications:
+  email:
+    - j@florius.com.ar

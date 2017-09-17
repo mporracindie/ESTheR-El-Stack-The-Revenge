@@ -1,0 +1,44 @@
+# Object files
+*.o
+*.ko
+*.d
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*/Debug
+*/build
+
+# Logs
+*.log
+
+# Eclipse adds
+*.project
+*.cproject
+*/.settings
+build/
+
+
+# CMake
+# https://github.com/github/gitignore/blob/master/CMake.gitignore
+
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
