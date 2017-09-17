@@ -1,5 +1,5 @@
-# tp-2017-1c-AsadoClash
+# ESTheR-El-Stack-The-Revenge
 
-Agregar un procesar paquete con un signal porque recv es bloqueante y si hay mas de un programa quilombo
-
-Enunciado: https://utn.so/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
+Enunciado (Carpeta)
+Erratas: https://github.com/sisoputnfrba/2017-1c-esther-errata/blob/master/errata.md
+Test (Carpeta)
